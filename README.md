@@ -1,2 +1,5 @@
 # XFusion
-Source code of XFsuion and the mffx dataset will be released a couple of days later.
+mffx dataset：
+链接：https://pan.baidu.com/s/1983BCCWykr3AssRb8qIqEQ 
+提取码：djlr
+
